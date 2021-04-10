@@ -64,6 +64,9 @@
     },
     "phone": {
       "type": "integer"
+    },
+    "fullname": {
+      "type": "string"
     }
   }
 }
